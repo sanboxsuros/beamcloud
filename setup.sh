@@ -24,7 +24,7 @@ echo "Please run the following command to configure your Beam API token:"
 echo "beam configure default --token YOUR_API_TOKEN_HERE"
 echo ""
 echo "Replace YOUR_API_TOKEN_HERE with your actual token from:"
-echo "bq99X2Wzdgo794QrPfWKgzPwFBl7Zog3ajdiUxTgNOWO1daHRnyRB2nB8zqCFKr8KR9VELgSmzpmhesuidmbpQ=="
+echo "1TeToLbg1zL4XKVzkXY_i1gep4VOkdc-zcOxjALAvVveuFf03BueNxPVMhUVM8KdBlT6-ILybZ_q_46GpjSN7w=="
 echo ""
 
 # Test Beam connection
